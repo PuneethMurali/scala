@@ -95,4 +95,5 @@ object assignment1 extends App {
   println(s"is $x is happy " + checkChar(strcheck1, x))
 
 }
+}
 
